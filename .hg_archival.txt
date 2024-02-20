@@ -1,0 +1,6 @@
+repo: 39585ba26f209c4a9d12ece8e4eda1c466775a94
+node: 3774767180a8c1cdd01acb3015ed2af7dcd24c60
+branch: OrthancOHIF-1.2
+latesttag: null
+latesttagdistance: 32
+changessincelatesttag: 32
